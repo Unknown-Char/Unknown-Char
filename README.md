@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Unknown
 
-<!--
-**Unknown-Char/Unknown-Char** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante de Licenciatura en Informática | Técnico en Hardware Computacional
+Soy un apasionado de la tecnología con una base sólida en mantenimiento de hardware y actualmente enfocado en el desarrollo de software y la gestión de sistemas. Me considero un **sapiosexual**, amante del aprendizaje continuo y de los retos lógicos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Sobre mí
+* 💻 **Formación:** Técnico en Hardware Computacional (graduado) y estudiante activo de Licenciatura.
+* 📍 **Ubicación:** Santa Ana, El Salvador.
+* 📚 **Enfoque actual:** Profundizando en Programación II, Bases de Datos II y Sistemas Operativos.
+* 🎨 **Lado Creativo:** Me encanta la edición de video y la composición de poemas tragicos.
+
+---
+
+## 🚀 Habilidades Técnicas
+
+### 🔌 Hardware y Redes
+* **Mantenimiento Preventivo y Correctivo:** Diagnóstico y reparación de equipos informáticos.
+* **Networking:** Configuración de redes y gestión de infraestructura básica.
+
+---
+### 🧮 Otras áreas de interés
+* Cálculo (Derivadas e Integrales) y Análisis Económico.
+* Edición de video creativa y producción audiovisual.
+
+---
+## 📫 Conectemos
+* **Música & Series:** Gran apasionado de la música y seguidor de producciones de culto como *Breaking Bad*, *Los Soprano* y *Better Call Saul*.
+* **Anime:** Fan de *Berserk* y *Vinland Saga* en las obras Seinen, pero mi Shonen favorito indiscutible es **Hunter x Hunter** (especialista en el sistema de **Nen**).
+
+---
+*Wabi-Sabi*  
+
